@@ -18,6 +18,7 @@ import io.swagger.client.models.Currency
  * @param value some description 
  * @param currency 
  */
+123
 data class Amount (
     /* some description  */
     val value: kotlin.Double,

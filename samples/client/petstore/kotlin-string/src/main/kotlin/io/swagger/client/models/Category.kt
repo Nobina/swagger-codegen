@@ -17,6 +17,7 @@ package io.swagger.client.models
  * @param id 
  * @param name 
  */
+123
 data class Category (
     val id: kotlin.Long? = null,
     val name: kotlin.String? = null
