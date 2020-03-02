@@ -1,0 +1,4 @@
+{
+  "modelPackage" : "com.nobina.travis.api.model",
+  "apiPackage" : "com.nobina.travis.api.api"
+}
